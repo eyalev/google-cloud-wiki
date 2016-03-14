@@ -8,3 +8,9 @@ Based on: https://cloud.google.com/docs
 * Compute Engine
 * Container Engine
 * Cloud Functions (Alpha)
+
+----
+
+Incoming links:
+
+[Wiki](/README.md)
