@@ -1,3 +1,4 @@
 # Google Cloud Wiki
 
-[Products](pages/products.md)
+* [Products](pages/products.md)
+* [APIs](pages/apis.md)
