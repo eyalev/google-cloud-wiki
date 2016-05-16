@@ -4,3 +4,4 @@
 * [APIs](pages/apis.md)
 * [Communities](pages/communities.md)
 * [Resources](pages/resources.md)
+* [FAQ](pages/faq.md)
